@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/7cda2184-4438-4f83-95ab-50cdefa908fb" alt="basedandco" width="200" /></p>
+
 # 🧃 Based & Co. Ltd.
 We write code with taste. Mostly questionable taste.
 If it’s weird, fun, half-useful or overengineered: we’re into it.
