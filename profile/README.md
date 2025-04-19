@@ -1,4 +1,7 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/7cda2184-4438-4f83-95ab-50cdefa908fb" alt="basedandco" width="200" /></p>
+<p align="center">  
+  <img src="/.github/assets/basedandco-dark.png#gh-light-mode-only" width="300px">
+  <img src="/.github/assets/basedandco-light.png#gh-dark-mode-only" width="300px">
+</p>
 
 # 🧃 Based & Co. Ltd.
 We write code with taste. Mostly questionable taste.
