@@ -1,5 +1,5 @@
 # 🧃 Based & Co. Ltd.
-We write code with taste. Mostly questionable taste.  
+We write code with taste. Mostly questionable taste.
 If it’s weird, fun, half-useful or overengineered: we’re into it.
 
 ---
@@ -27,17 +27,17 @@ No hierarchy. No suits. Just code and chaos.
 
 ## 🤙 Get Involved
 
-Feel like contributing? Fork something and open a PR.  
-Got a cursed idea? Start a repo and we’ll pretend to support you.  
+Feel like contributing? Fork something and open a PR.
+Got a cursed idea? Start a repo and we’ll pretend to support you.
 Want to say hi? No you don’t. But here are some links anyway:
 
-- 🌐 [basedand.co](https://basedand.co)  
-- 🐦 [@basedandco](https://x.com/basedandco)  
-- 💬 [Join our Discord](https://discord.gg/yourvanityurl) *(vibe check required)*
+- 🌐 [basedand.co](https://basedand.co)
+- 🐦 [@basedandco](https://x.com/basedandco)
+- 💬 [Join our Discord](https://discord.gg/qBHWCYgnJ8) *(vibe check required)*
 
 ## 📜 License
 
-Most of our stuff is MIT. Unless otherwise stated. Or unless we forget.  
+Most of our stuff is MIT. Unless otherwise stated. Or unless we forget.
 Use it however you want. Just don’t make it boring.
 
 ## 🧠 Motto
