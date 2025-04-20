@@ -43,7 +43,7 @@ Want to say hi? No you don’t. But here are some links anyway:
 ## 📜 License
 
 Most of our stuff is MIT. Unless otherwise stated. Or unless we forget.
-Use it however you want. Just don’t make it boring.
+Use it however you want but give us credit. Just don’t make it boring.
 
 ## 🧠 Motto
 
