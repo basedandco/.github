@@ -1,6 +1,6 @@
 <p align="center">  
-  <img src="/assets/basedandco-dark.png#gh-light-mode-only" width="300px">
-  <img src="/assets/basedandco-light.png#gh-dark-mode-only" width="300px">
+  <img src="https://raw.githubusercontent.com/basedandco/.github/main/assets/basedandco-dark.png#gh-light-mode-only" width="300px">
+  <img src="https://raw.githubusercontent.com/basedandco/.github/main/assets/basedandco-light.png#gh-dark-mode-only" width="300px">
 </p>
 
 # 🧃 Based & Co. Ltd.
